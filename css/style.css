@@ -205,6 +205,7 @@ nav.main-menu {
 .navbar-light .navbar-toggler {
     color: rgba(0, 0, 0, .5);
     border-color: #000;
+    float: left;
 }
 
 .nav-link:focus,
