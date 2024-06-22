@@ -263,7 +263,7 @@ nav.main-menu {
 }
 
 .banner_bt {
-    width: 100%;
+    width: fit-content;
     float: left;
 }
 
