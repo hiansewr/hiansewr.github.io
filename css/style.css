@@ -205,7 +205,6 @@ nav.main-menu {
 .navbar-light .navbar-toggler {
     color: rgba(0, 0, 0, .5);
     border-color: #000;
-    float: left;
 }
 
 .nav-link:focus,
@@ -236,7 +235,7 @@ nav.main-menu {
 }
 
 .banner_taital {
-    width: 130%;
+    width: 100%;
     float: left;
     color: #ffffff;
     font-size: 70pt;
@@ -246,7 +245,7 @@ nav.main-menu {
 }
 
 .banner_taital_1 {
-    width: 130%;
+    width: 100%;
     float: left;
     color: #ffffff;
     font-size: 70pt;
