@@ -235,7 +235,7 @@ nav.main-menu {
 }
 
 .banner_taital {
-    width: 100%;
+    width: fit-content;
     float: left;
     color: #ffffff;
     font-size: 70pt;
@@ -245,7 +245,7 @@ nav.main-menu {
 }
 
 .banner_taital_1 {
-    width: 100%;
+    width: fit-content;
     float: left;
     color: #ffffff;
     font-size: 70pt;
