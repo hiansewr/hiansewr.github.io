@@ -157,7 +157,7 @@ a {
     float: left;
     background-image: url(../images/banner.png);
     height: auto;
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
