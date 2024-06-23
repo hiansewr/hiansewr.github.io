@@ -202,11 +202,6 @@ nav.main-menu {
     text-transform: uppercase;
 }
 
-.navbar-light .navbar-toggler {
-    color: rgba(0, 0, 0, .5);
-    border-color: #000;
-}
-
 .nav-link:focus,
 .nav-link:hover {
     color: #CE0E2D;
