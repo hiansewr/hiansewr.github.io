@@ -220,7 +220,7 @@ width: 30%;
     .paddimg-left {
          padding-left: 15px;
     }
-.navbar-light .navbar-toggler { background: #fff; }
+
 .header_section { background-size: cover; }
 .banner_taital { font-size: 46pt;}
 .banner_taital_1 { font-size: 46pt;}
@@ -319,7 +319,7 @@ width: 55%;
 .quick_text { font-size: 23pt;}
 .subscribe_text { font-size: 23pt;}
 .copyright_text { margin-left: 0px; font-size: 13pt;}
-.navbar-light .navbar-toggler { background: #fff; }
+
 .map_flag { font-size: 15px; }
 .images { padding-top: 10px; } 
 
@@ -435,7 +435,7 @@ ul.link li {
 .quick_text { font-size: 24pt;}
 .copyright_text { margin-left: 0px; font-size: 13pt;}
 .navbar-light .navbar-nav .nav-link { color: #060608; font-size: 13pt; padding-top: 5px; }
-.navbar-light .navbar-toggler { background: #fff; }
+
 .images_main { margin-top: 10px; } 
 .images { margin-top: 20px; }
 
