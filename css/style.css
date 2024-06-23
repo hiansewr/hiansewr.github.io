@@ -860,3 +860,8 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
     white-space: nowrap;
     border-radius: 32px
 }
+
+.version{
+    padding-bottom: 5%;
+    border-bottom: 2px solid black;
+}
