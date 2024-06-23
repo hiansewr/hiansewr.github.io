@@ -160,6 +160,7 @@ a {
     height: auto;
     background-size: 100% auto;
     background-repeat: no-repeat;
+    background-attachment: scroll;
 }
 
 nav.main-menu {
