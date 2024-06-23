@@ -233,17 +233,17 @@ nav.main-menu {
     width: fit-content;
     float: left;
     color: #ffffff;
-    font-size: 70pt;
+    font-size: 64pt;
     font-weight: bold;
     margin-top: 64px;
-    margin-bottom: 50px;
+    margin-bottom: 36px;
 }
 
 .banner_taital_1 {
     width: fit-content;
     float: left;
     color: #ffffff;
-    font-size: 70pt;
+    font-size: 64pt;
     font-weight: bold;
     line-height: 50px;
 }
