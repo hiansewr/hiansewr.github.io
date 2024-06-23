@@ -339,7 +339,7 @@ nav.main-menu {
 
 .promoted_text::after {
     content: '';
-    border: 5px solid #3b31fa;
+    border: 5px solid #2050FF;
     position: relative;
     width: 110px;
     text-align: center;
@@ -404,15 +404,13 @@ nav.main-menu {
     text-align: center;
     font-size: 14pt;
     color: #fcfcfc;
-    background-color: #524ae0;
+    background-color: #2050FF;
     display: block;
     padding: 8px 0px;
     border-radius: 21px;
 }
 
 .mobile_bt a:hover {
-    color: #ffffff;
-    background-color: #a94af9;
 }
 
 .popular_section {
