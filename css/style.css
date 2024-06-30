@@ -872,3 +872,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
     white-space: nowrap;
     border-radius: 21px
 }
+
+.bilibili:hover,.coolapk:hover,.xiaomi:hover,.xda:hover,.download:hover{
+    color: #fff;
+}
