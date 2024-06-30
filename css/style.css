@@ -203,9 +203,7 @@ nav.main-menu {
 }
 
 .nav-link:focus,
-.nav-link:hover {
-    color: #CE0E2D;
-}
+.nav-link:hover {}
 
 .login_text {
     font-size: 14pt;
@@ -297,9 +295,7 @@ nav.main-menu {
     padding: 10px;
 }
 
-.fashion_menu li a:hover {
-    color: #ff6900;
-}
+.fashion_menu li a:hover {}
 
 .fashion_menu li {
     float: left;
@@ -405,8 +401,7 @@ nav.main-menu {
     border-radius: 21px;
 }
 
-.mobile_bt a:hover {
-}
+.mobile_bt a:hover {}
 
 .popular_section {
     width: 100%;
@@ -793,7 +788,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 .bilibili {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
-    width: 210px;
+    width: 64px;
     height: 50px;
     line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
@@ -806,7 +801,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 .coolapk {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
-    width: 210px;
+    width: 64px;
     height: 50px;
     line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
@@ -819,7 +814,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 .xiaomi {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
-    width: 210px;
+    width: 64px;
     height: 50px;
     line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
@@ -832,7 +827,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 .xda {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
-    width: 210px;
+    width: 64px;
     height: 50px;
     line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
@@ -859,4 +854,17 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 .version{
     padding-bottom: 5%;
     border-bottom: 2px solid black;
+}
+
+.download {
+    margin-top: 10px;
+    display: inline-block; /* 设置为块元素 */
+    width: 210px;
+    height: 50px;
+    line-height: 50px; /* 设置垂直居中 */
+    border: 1px solid #ccc;
+    background-color: #2050FF;
+    text-align: center;
+    white-space: nowrap;
+    border-radius: 21px
 }
