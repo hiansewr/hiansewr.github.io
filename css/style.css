@@ -788,53 +788,57 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 .bilibili {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
-    width: 64px;
+    width: fit-content;
     height: 50px;
     line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
     background-color: #FB7299;
     text-align: center;
     white-space: nowrap;
-    border-radius: 21px
+    border-radius: 21px;
+    padding-inline: inherit;
 }
 
 .coolapk {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
-    width: 64px;
+    width: fit-content;
     height: 50px;
     line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
     background-color: green;
     text-align: center;
     white-space: nowrap;
-    border-radius: 21px
+    border-radius: 21px;
+    padding-inline: inherit;
 }
 
 .xiaomi {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
-    width: 64px;
+    width: fit-content;
     height: 50px;
     line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
     background-color: #ff6900;
     text-align: center;
     white-space: nowrap;
-    border-radius: 21px
+    border-radius: 21px;
+    padding-inline: inherit;
 }
 
 .xda {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
-    width: 64px;
+    width: fit-content;
     height: 50px;
     line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
     background-color: blue;
     text-align: center;
     white-space: nowrap;
-    border-radius: 21px
+    border-radius: 21px;
+    padding-inline: inherit;
 }
 
 .news {
