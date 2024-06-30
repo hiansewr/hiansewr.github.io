@@ -794,52 +794,52 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
     width: 210px;
-    height: 100px;
-    line-height: 100px; /* 设置垂直居中 */
+    height: 50px;
+    line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
-    color: #FB7299;
+    background-color: #FB7299;
     text-align: center;
     white-space: nowrap;
-    border-radius: 32px
+    border-radius: 21px
 }
 
 .coolapk {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
     width: 210px;
-    height: 100px;
-    line-height: 100px; /* 设置垂直居中 */
+    height: 50px;
+    line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
-    color: green;
+    background-color: green;
     text-align: center;
     white-space: nowrap;
-    border-radius: 32px
+    border-radius: 21px
 }
 
 .xiaomi {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
     width: 210px;
-    height: 100px;
-    line-height: 100px; /* 设置垂直居中 */
+    height: 50px;
+    line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
-    color: #ff6900;
+    background-color: #ff6900;
     text-align: center;
     white-space: nowrap;
-    border-radius: 32px
+    border-radius: 21px
 }
 
 .xda {
     margin-top: 10px;
     display: inline-block; /* 设置为块元素 */
     width: 210px;
-    height: 100px;
-    line-height: 100px; /* 设置垂直居中 */
+    height: 50px;
+    line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
-    color: blue;
+    background-color: blue;
     text-align: center;
     white-space: nowrap;
-    border-radius: 32px
+    border-radius: 21px
 }
 
 .news {
@@ -847,13 +847,13 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
     margin-bottom: 21px;
     display: inline-block; /* 设置为块元素 */
     width: 210px;
-    height: 100px;
-    line-height: 100px; /* 设置垂直居中 */
+    height: 50px;
+    line-height: 50px; /* 设置垂直居中 */
     border: 1px solid #ccc;
-    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
     text-align: center;
     white-space: nowrap;
-    border-radius: 32px
+    border-radius: 21px
 }
 
 .version{
