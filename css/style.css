@@ -877,3 +877,13 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 a:hover{
     color: #fff;
 }
+
+.container-fluid {
+    background-color: rgba(0, 0, 0, .85);
+    z-index: 99;
+    backdrop-filter: blur(50px);
+    position: fixed;
+    backdrop-filter: opacity(20%);
+    top: 0;
+    width: 100%;
+}
