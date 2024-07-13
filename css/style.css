@@ -887,3 +887,14 @@ a:hover{
     top: 0;
     width: 100%;
 }
+
+.thome {
+    border-bottom: 0;
+    margin: 20px 30px 20px 30px;
+    width: device-width;
+}
+
+.home {
+    border-radius: 32px;
+    width: 100%;
+}
