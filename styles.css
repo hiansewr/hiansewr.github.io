@@ -1,0 +1,48 @@
+/* 自定义工具类 */
+@layer utilities {
+    .content-auto {
+        content-visibility: auto;
+    }
+    .card-shadow {
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    }
+    .hover-lift {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .hover-lift:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    }
+    .text-line-clamp-2 {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .text-expanded {
+        -webkit-line-clamp: unset;
+    }
+    .modal-backdrop {
+        backdrop-filter: blur(8px);
+        background-color: rgba(17, 24, 39, 0.7);
+    }
+    .social-icon {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 24px;
+        height: 24px;
+        transition: color 0.2s ease;
+    }
+    .social-icon:hover {
+        color: white;
+    }
+    .header-blur {
+        backdrop-filter: blur(8px);
+        background-color: rgba(59, 130, 246, 0.9);
+        transition: background-color 0.3s ease;
+    }
+    .header-blur.scrolled {
+        background-color: rgba(59, 130, 246, 0.8);
+    }
+}
